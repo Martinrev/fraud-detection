@@ -1,4 +1,6 @@
 # Ignore les fichiers suivants:
 dataframe.pkl
 guillaume.txt
-README.md
+guillaume.xlsx
+fichier_nettoye.csv
+nettoyage.ipynb
