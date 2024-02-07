@@ -1,4 +1,4 @@
-# fraud-detection
+# Fraud detection
 
 **Type:** School project
 
